@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236417285672",
+    "project_id": "ajedres-cbc41",
+    "storage_bucket": "ajedres-cbc41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236417285672:android:5e01a6a5e3b5a2b327bf1d",
+        "android_client_info": {
+          "package_name": "espe.edu.ec.flutter_chess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8X8XjOcPoZ2zTce57TDETP_I0aJhTN08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
